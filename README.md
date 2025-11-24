@@ -1,1 +1,1 @@
-# medical-coding-assistant
+AI medical coding helper using LangChain
